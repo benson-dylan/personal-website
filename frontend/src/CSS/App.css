@@ -1,0 +1,53 @@
+#HomePage {
+  background-color: beige;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#PortfolioPage
+{
+  background-color: beige;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#AboutPage
+{
+  background-color: beige;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#AboutBox
+{
+  display: flex;
+  justify-content: center;
+  padding: 10%;
+  max-width: 50%;
+  border: 5px solid black;
+}
+
+#NavbarDiv
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  background-color: transparent;
+
+}
+
+.NavButton {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1% 2%;
+}
